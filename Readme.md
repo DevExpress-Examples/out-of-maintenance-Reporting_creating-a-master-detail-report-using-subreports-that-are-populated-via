@@ -5,7 +5,7 @@
 * [XtraReport2.cs](./CS/WebSite/App_Code/XtraReport2.cs) (VB: [XtraReport2.vb](./VB/WebSite/App_Code/XtraReport2.vb))
 * [Northwind_StoredProcedures.sql](./CS/WebSite/App_Data/Northwind_StoredProcedures.sql) (VB: [Northwind_StoredProcedures.sql](./VB/WebSite/App_Data/Northwind_StoredProcedures.sql))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Creating a Master-Detail Report using subreports that are populated via stored procedures
 
